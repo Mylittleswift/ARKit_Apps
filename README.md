@@ -1,27 +1,17 @@
-### [ARKit2 api](https://developer.apple.com/documentation/arkit)
+### [ARKit Tutorial and APIs](https://developer.apple.com/documentation/arkit)
 
 ### Apple's sample 
-[Handling 3D Interaction and UI Controls in Augmented Reality](https://developer.apple.com/documentation/arkit/handling_3d_interaction_and_ui_controls_in_augmented_reality)
-
-[Building Your First AR Experience](https://developer.apple.com/documentation/arkit/building_your_first_ar_experience)
-
-[Creating a Multiuser AR Experience](https://developer.apple.com/documentation/arkit/creating_a_multiuser_ar_experience)
-
-[SwiftShot](https://developer.apple.com/documentation/arkit/swiftshot_creating_a_game_for_augmented_reality)
-
-[Creating a Persistent AR Experience](https://developer.apple.com/documentation/arkit/creating_a_persistent_ar_experience)
-
-[Adding Realistic Reflections to an AR Experience](https://developer.apple.com/documentation/arkit/adding_realistic_reflections_to_an_ar_experience)
-
-[Recognizing Images in an AR Experience](https://developer.apple.com/documentation/arkit/recognizing_images_in_an_ar_experience)
-
-[Scanning and Detecting 3D Objects](https://developer.apple.com/documentation/arkit/scanning_and_detecting_3d_objects)
-
-[Creating Face-Based AR Experiences](https://developer.apple.com/documentation/arkit/creating_face-based_ar_experiences)
-
-[Creating an Immersive AR Experience with Audio](https://developer.apple.com/documentation/arkit/creating_an_immersive_ar_experience_with_audio)
-
-[Using Vision in Real Time with ARKit](https://developer.apple.com/documentation/arkit/using_vision_in_real_time_with_arkit)
+* [Handling 3D Interaction and UI Controls in Augmented Reality](https://developer.apple.com/documentation/arkit/handling_3d_interaction_and_ui_controls_in_augmented_reality)
+* [Building Your First AR Experience](https://developer.apple.com/documentation/arkit/building_your_first_ar_experience)
+* [Creating a Multiuser AR Experience](https://developer.apple.com/documentation/arkit/creating_a_multiuser_ar_experience)
+* [SwiftShot](https://developer.apple.com/documentation/arkit/swiftshot_creating_a_game_for_augmented_reality)
+* [Creating a Persistent AR Experience](https://developer.apple.com/documentation/arkit/creating_a_persistent_ar_experience)
+* [Adding Realistic Reflections to an AR Experience](https://developer.apple.com/documentation/arkit/adding_realistic_reflections_to_an_ar_experience)
+* [Recognizing Images in an AR Experience](https://developer.apple.com/documentation/arkit/recognizing_images_in_an_ar_experience)
+* [Scanning and Detecting 3D Objects](https://developer.apple.com/documentation/arkit/scanning_and_detecting_3d_objects)
+* [Creating Face-Based AR Experiences](https://developer.apple.com/documentation/arkit/creating_face-based_ar_experiences)
+* [Creating an Immersive AR Experience with Audio](https://developer.apple.com/documentation/arkit/creating_an_immersive_ar_experience_with_audio)
+* [Using Vision in Real Time with ARKit](https://developer.apple.com/documentation/arkit/using_vision_in_real_time_with_arkit)
 
 
 ### Sample Apps using ARKit
